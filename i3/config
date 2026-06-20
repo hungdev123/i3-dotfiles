@@ -190,7 +190,7 @@ bindsym $mod+r mode "resize"
 #         status_command i3status
 # }
 
-exec feh --bg-fill /home/hung/Pictures/wallpaper/249037e8d6daa355b289ea8e8a6db766.jpg
+exec feh --bg-fill /path
 
 # win
 default_border pixel 2
